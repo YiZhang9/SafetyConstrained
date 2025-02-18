@@ -1,0 +1,17 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+/home/yiz21033/SafetyConstrained/main.py:224: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show(block=True)
+/home/yiz21033/SafetyConstrained/main.py:274: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show(block=True)
+/home/yiz21033/SafetyConstrained/main.py:323: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.pause(0.0001)
+/home/yiz21033/SafetyConstrained/main.py:326: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
